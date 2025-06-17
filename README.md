@@ -53,6 +53,8 @@ dotnet publish "C:\theprojectlocation" `
   /p:EnableCompressionInSingleFile=true `
   /p:PublishReadyToRun=true `
   /p:DebugType=none
+
+
 📝 Replace "C:\theprojectlocation" with the actual path to your project directory.
 
 📦 Output
