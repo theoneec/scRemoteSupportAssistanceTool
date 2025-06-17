@@ -1,0 +1,4 @@
+E:\powershellwebbrowser\visualsc\RemoteSupportHelper\bin\Release\net8.0-windows\win-x64\publish\Microsoft.Web.WebView2.Core.xml
+E:\powershellwebbrowser\visualsc\RemoteSupportHelper\bin\Release\net8.0-windows\win-x64\publish\Microsoft.Web.WebView2.WinForms.xml
+E:\powershellwebbrowser\visualsc\RemoteSupportHelper\bin\Release\net8.0-windows\win-x64\publish\Microsoft.Web.WebView2.Wpf.xml
+E:\powershellwebbrowser\visualsc\RemoteSupportHelper\bin\Release\net8.0-windows\win-x64\publish\RemoteSupportHelper.exe
